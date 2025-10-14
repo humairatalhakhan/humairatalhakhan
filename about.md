@@ -5,7 +5,6 @@ permalink: /about
 ---
 
 # About Me
-
 Hi there 👋
 I’m a Banking Professional and Data Analyst with over 12 years of experience in data reporting, business intelligence, and process automation within the financial sector. My work bridges the gap between operational data and business insights, helping teams make informed, data-driven decisions.
 
@@ -35,3 +34,4 @@ To transition into a Business Intelligence Analyst or Data Analytics role, lever
 📫 Let’s Connect:
 https://humairatalhakhan.github.io/
 https://www.linkedin.com/in/humairatalha/
+
