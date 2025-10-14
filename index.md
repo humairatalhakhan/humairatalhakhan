@@ -3,33 +3,54 @@ layout: default
 title: Home
 ---
 
-# Hi, I'm Humaira Talha! 👋
+# Hi, I’m Humaira Talha! 👋  
 
-**Aspiring Data Analyst | Business Coordinator | Exploring the intersection of business and data**
+**Aspiring Data Analyst | Business Coordinator | Exploring the Intersection of Business and Data**
 
-## 🚀 About Me
+---
 
-I currently work as a Business Coordinator, where I support team operations and help align day-to-day activities with broader business goals. Recently, I’ve developed a strong interest in data analytics and how data can be used to drive smarter decision-making.
+## 🚀 About Me  
+I currently work as a **Business Coordinator**, where I support team operations and help align day-to-day activities with broader business goals.  
 
-I'm currently enrolled in the Data Analytics Essentials and actively building my GitHub site to showcase my learning progress and personal projects. My areas of interest include data visualization, KPI tracking, and transforming raw data into clear, actionable insights.
+Recently, I’ve developed a strong interest in **data analytics** — how data can drive smarter decision-making and improve business performance.  
 
-This shift toward analytics comes from a desire to not just support business functions, but to better understand the impact of decisions and strategies through data. I enjoy problem-solving, continuous learning, and exploring tools that help bridge the gap between business questions and data answers.
+I’m currently enrolled in **Data Analytics Essentials** and actively building my GitHub site to showcase my **learning progress** and **personal projects**.  
 
-Outside of work, I spend time learning new tools and techniques in analytics, following industry trends, and connecting with others in the data space.
+My areas of interest include:
+- 📊 Data Visualization & KPI Dashboards  
+- 📈 Business Reporting & Process Insights  
+- 🧮 Transforming raw data into actionable insights  
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/humairatalha/)
+This shift toward analytics comes from my passion for understanding how data impacts decisions and strategies. I enjoy problem-solving, continuous learning, and exploring tools that connect **business goals** with **data-driven results**.  
 
-I’m always open to learning from others and sharing what I’m working on.
+Outside of work, I enjoy learning new tools, following analytics trends, and connecting with other data enthusiasts.
 
-## 🌱 Currently Exploring
+---
 
-- Exploring Excel and Google Sheets for data cleaning, transformation, and basic analysis.
-- Practicing SQL to query, manipulate, and analyze structured data from relational databases.
-- Visualizing data using tools like Power BI and Tableau for clear, impactful storytelling.
-- Learning Python for data analysis using libraries like Pandas, NumPy, and Matplotlib.
-- Understanding the fundamentals of statistics to support data-driven decisions.
-- Working on real-world projects to turn raw data into actionable insights.
+## 🌱 Currently Exploring  
+- 🧩 Excel & Google Sheets — data cleaning, transformation, and analysis  
+- 🧠 SQL — querying, manipulating, and analyzing structured data  
+- 📊 Power BI & Tableau — data visualization and storytelling  
+- 🐍 Python — using Pandas, NumPy, and Matplotlib for analysis  
+- 📈 Statistics — understanding fundamentals for data-driven decisions  
+- 💼 Real-world projects — turning raw data into actionable insights  
 
-## 🏆 Achievements
+---
 
-- 🌟 to be added
+## 🏆 Achievements  
+🌟 *To be added soon...*
+
+---
+
+## 🔗 Connect with Me  
+
+<a href="https://humairatalhakhan.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/humairatalha//" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+---
+
+✨ *"Data tells a story — I’m here to help translate it into insights."*
