@@ -33,7 +33,8 @@ To transition into a Business Intelligence Analyst or Data Analytics role, lever
 
 📫 Let’s Connect:
 
-* https://humairatalhakhan.github.io/
+[LinkedIn](https://www.linkedin.com/in/humairatalha/)
 
-* https://www.linkedin.com/in/humairatalha/
+[Github](https://humairatalhakhan.github.io/)
+
 
