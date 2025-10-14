@@ -32,6 +32,8 @@ LinkedIn Learning courses on Excel Power Query, SQL, and Data Analytics Essentia
 To transition into a Business Intelligence Analyst or Data Analytics role, leveraging my banking expertise and technical skills to deliver actionable insights for business growth.
 
 📫 Let’s Connect:
+
 https://humairatalhakhan.github.io/
+
 https://www.linkedin.com/in/humairatalha/
 
