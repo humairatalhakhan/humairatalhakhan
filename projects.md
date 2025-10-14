@@ -110,3 +110,39 @@ SQL-based project focusing on analyzing customer growth and retention metrics ov
 <div align="center">
   <h4>✨ Explore more on my <a href="https://github.com/YOUR_USERNAME?tab=repositories">GitHub Projects →</a></h4>
 </div>
+
+# ⚙️ Skills & Tools
+
+<div align="center">
+
+<table style="border:none; width:80%;">
+
+<tr>
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" alt="Excel Icon">
+  <h4>Microsoft Excel</h4>
+  <p style="font-size:0.9rem;">Data Cleaning | Power Query | Pivot Tables | Dashboards</p>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="60" alt="Power BI Icon">
+  <h4>Power BI</h4>
+  <p style="font-size:0.9rem;">Data Visualization | DAX | Data Modeling | Reports</p>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
+  <h4>SQL</h4>
+  <p style="font-size:0.9rem;">Joins | Aggregations | Filtering | Subqueries</p>
+</td>
+
+<td align="center" width="25%">
+  <img src="https://img.icons8.com/color/96/statistics.png" width="60" alt="Statistics Icon">
+  <h4>Statistics</h4>
+  <p style="font-size:0.9rem;">Descriptive Stats | Data Sampling | Trend Analysis</p>
+</td>
+</tr>
+
+</table>
+
+</div>
