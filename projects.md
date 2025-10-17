@@ -58,20 +58,20 @@ Automated MIS report built in Excel and Power Query to track key operational dat
 <!-- SQL Banking Analytics -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics" target="_blank">
-  <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
-</a>
-
-<h3>💾 SQL Banking Analytics</h3>
-<p style="text-align:justify; font-size:0.95rem;">
-SQL-based data analysis on customer deposits, corporate accounts, and transaction activities. Includes queries for trend identification, data cleaning, and performance comparison.
-</p>
-<p><b>Tools:</b> SQL | Joins | Aggregations</p>
-
-<p>
-  <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics" target="_blank" style="text-decoration:none; font-weight:bold;">
-    🔗 View Project on GitHub
+  <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank">
+    <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
   </a>
+
+  <h3>💾 SQL Banking Analytics</h3>
+  <p style="text-align:justify; font-size:0.95rem;">
+    SQL-based data analysis on customer deposits, corporate accounts, and transaction activities. Includes queries for trend identification, data cleaning, and performance comparison.
+  </p>
+  <p><b>Tools:</b> SQL | Joins | Aggregations</p>
+
+  <p>
+    <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank" style="text-decoration:none; font-weight:bold;">
+      🔗 View Project on GitHub
+
 </p>
 
 </td>
