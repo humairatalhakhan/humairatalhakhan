@@ -1,5 +1,3 @@
-
-
 # 💼 My Projects
 
 <div align="center">
@@ -12,23 +10,31 @@
 <table style="width:100%; border:none;">
 <tr>
 
+<!-- ✅ NTC Project -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/WPS-New-to-Company-Acquisition" target="_blank">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60" alt="Power BI Icon">
+<a href="https://github.com/humairatalhakhan/New-to-Company-NTC-Acquisition" target="_blank">
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" alt="Excel Icon">
 </a>
 
 <h3>🏦 WPS New-to-Company (NTC) Dashboard</h3>
 <p style="text-align:justify; font-size:0.95rem;">
-An interactive Power BI dashboard that tracks onboarding performance of corporate clients under the Wages Protection System (WPS). Includes KPIs for acquisition, volume, and trend analysis.
+An Excel-based analytics project that tracks onboarding performance of corporate clients under the Wages Protection System (WPS). Features automated data cleaning, KPIs for acquisition, and trend analysis using Power Query and Pivot Charts.
 </p>
-<p><b>Tools:</b> Power BI | Excel | DAX</p>
+<p><b>Tools:</b> Excel | Power Query | Pivot Charts</p>
+
+<p>
+  <a href="https://github.com/humairatalhakhan/New-to-Company-NTC-Acquisition" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
 
 </td>
 
+<!-- Banking MIS -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/Banking-MIS-Performance" target="_blank">
+<a href="https://github.com/humairatalhakhan/Banking-MIS-Performance" target="_blank">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" alt="Excel Icon">
 </a>
 
@@ -38,14 +44,21 @@ Automated MIS report built in Excel and Power Query to track key operational dat
 </p>
 <p><b>Tools:</b> Excel | Power Query | Pivot Charts</p>
 
+<p>
+  <a href="https://github.com/humairatalhakhan/Banking-MIS-Performance" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </td>
 </tr>
 
 <tr>
 
+<!-- SQL Banking Analytics -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/SQL-Banking-Analytics" target="_blank">
+<a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics" target="_blank">
   <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
 </a>
 
@@ -55,11 +68,18 @@ SQL-based data analysis on customer deposits, corporate accounts, and transactio
 </p>
 <p><b>Tools:</b> SQL | Joins | Aggregations</p>
 
+<p>
+  <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </td>
 
+<!-- Workforce Demographics -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/Banking-Workforce-Insights" target="_blank">
+<a href="https://github.com/humairatalhakhan/Banking-Workforce-Insights" target="_blank">
   <img src="https://img.icons8.com/color/96/group.png" width="60" alt="Demographics Icon">
 </a>
 
@@ -69,14 +89,21 @@ Power BI visualization that highlights workforce composition by nationality and 
 </p>
 <p><b>Tools:</b> Power BI | DAX | Data Modeling</p>
 
+<p>
+  <a href="https://github.com/humairatalhakhan/Banking-Workforce-Insights" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </td>
 </tr>
 
 <tr>
 
+<!-- Branch Performance -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/Bank-Branch-Performance-Analysis" target="_blank">
+<a href="https://github.com/humairatalhakhan/Bank-Branch-Performance-Analysis" target="_blank">
   <img src="https://img.icons8.com/color/96/line-chart.png" width="60" alt="Analytics Icon">
 </a>
 
@@ -86,11 +113,18 @@ Uses Excel and Power BI to compare revenue, deposit growth, and acquisition KPIs
 </p>
 <p><b>Tools:</b> Power BI | Excel | Statistics</p>
 
+<p>
+  <a href="https://github.com/humairatalhakhan/Bank-Branch-Performance-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </td>
 
+<!-- Customer Trend SQL -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/YOUR_USERNAME/Customer-Trend-SQL-Report" target="_blank">
+<a href="https://github.com/humairatalhakhan/Customer-Trend-SQL-Report" target="_blank">
   <img src="https://img.icons8.com/color/96/data-configuration.png" width="60" alt="Data Icon">
 </a>
 
@@ -100,6 +134,12 @@ SQL-based project focusing on analyzing customer growth and retention metrics ov
 </p>
 <p><b>Tools:</b> SQL | Excel | Data Analysis</p>
 
+<p>
+  <a href="https://github.com/humairatalhakhan/Customer-Trend-SQL-Report" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </td>
 
 </tr>
@@ -108,52 +148,17 @@ SQL-based project focusing on analyzing customer growth and retention metrics ov
 ---
 
 <div align="center">
-  <h4> <div align="center">
+  <h4>
+  <div align="center">
 
 <a href="https://humairatalhakhan.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
-<a href="https://www.linkedin.com/in/humairatalha//" target="_blank">
+<a href="https://www.linkedin.com/in/humairatalha/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
 <p style="font-size:0.9rem;">Let’s connect and collaborate on data-driven projects or analytics insights.</p>
 
 </div></h4>
-</div>
-
-# ⚙️ Skills & Tools
-
-<div align="center">
-
-<table style="border:none; width:80%;">
-
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" alt="Excel Icon">
-  <h4>Microsoft Excel</h4>
-  <p style="font-size:0.9rem;">Data Cleaning | Power Query | Pivot Tables | Dashboards</p>
-</td>
-
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60" alt="Power BI Icon">
-  <h4>Power BI</h4>
-  <p style="font-size:0.9rem;">Data Visualization | DAX | Data Modeling | Reports</p>
-</td>
-
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
-  <h4>SQL</h4>
-  <p style="font-size:0.9rem;">Joins | Aggregations | Filtering | Subqueries</p>
-</td>
-
-<td align="center" width="25%">
-  <img src="https://img.icons8.com/color/96/statistics.png" width="60" alt="Statistics Icon">
-  <h4>Statistics</h4>
-  <p style="font-size:0.9rem;">Descriptive Stats | Data Sampling | Trend Analysis</p>
-</td>
-</tr>
-
-</table>
-
 </div>
