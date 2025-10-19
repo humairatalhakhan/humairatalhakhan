@@ -79,7 +79,7 @@ Automated MIS report built in Excel and Power Query to track key operational dat
 <!-- Workforce Demographics -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
 
-<a href="https://github.com/humairatalhakhan/Banking-Workforce-Insights" target="_blank">
+<a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank">
   <img src="https://img.icons8.com/color/96/group.png" width="60" alt="Demographics Icon">
 </a>
 
