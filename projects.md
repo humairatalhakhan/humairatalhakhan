@@ -71,10 +71,13 @@ Automated MIS report built in Excel and Power Query to track key operational dat
   <p>
     <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank" style="text-decoration:none; font-weight:bold;">
       🔗 View Project on GitHub
-
+ <p>
 </p>
 
 </td>
+</tr>
+
+<tr>
 
 <!-- Workforce Demographics -->
 <td align="center" width="50%" style="vertical-align:top; padding:20px;">
