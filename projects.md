@@ -116,7 +116,7 @@ Uses Excel and Power BI to compare revenue, deposit growth, and acquisition KPIs
 <p><b>Tools:</b> Power BI | Excel | Statistics</p>
 
 <p>
-  <a href="https://github.com/humairatalhakhan/Bank-Branch-Performance-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
+  <a href="https://github.com/humairatalhakhan/Branch-Performance-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
     🔗 View Project on GitHub
   </a>
 </p>
