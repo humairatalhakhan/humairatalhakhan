@@ -5,11 +5,12 @@ permalink: /about
 ---
 
 # About Me
-### 👋 Hi there  
+### Hi! 👋 I’m a passionate Data Analytics learner exploring SQL, Power BI, and Excel.  
 
-I’m a **Banking Professional and Data Analyst** with over 12 years of experience in  
-**data reporting**, **business intelligence**, and **process automation** within the financial sector.  
-My work bridges the gap between operational data and business insights, helping teams make informed, data-driven decisions.  
+I create hands-on projects to apply my skills in analyzing data, generating insights, and building dashboards.  
+This portfolio showcases my work, experiments, and learning journey in data analytics.  
+
+Still learning, still exploring, and excited to turn data into actionable insights! 🚀
 
 ---
 
@@ -30,13 +31,13 @@ My work bridges the gap between operational data and business insights, helping 
 
 🧠 End-to-end data analysis projects showcasing the data lifecycle — from **data cleaning** to **visualization**  
 
-📉 Dashboards for **WPS acquisition**, **corporate performance**, and **demographic analytics**  
+📉 Dashboards for **WPS New-to-Company (NTC) Dashboard**, **WPS Forecasting & Predictive Analysis**, and **WPS Market Sector Analysis**  
 
 ---
 
 ### 📚 Learning & Certifications  
 
-🎓 Microsoft Certified: *Power BI Data Analyst (PL-300)* *(in progress)*  
+🎓 Microsoft Certified:
 
 🧩 LinkedIn Learning courses on  
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoft-excel&logoColor=white)
