@@ -1,9 +1,9 @@
 # 💼 My Projects
 
 <div align="center">
-  <h3 style="font-size:1.4rem;">📊 Banking Analytics | Reporting | MIS Dashboards</h3>
+  <h3 style="font-size:1.4rem;">📊 WPS Analytics | Reporting | MIS Dashboards</h3>
   <p style="max-width:750px;">
-    A collection of practical analytics projects built around real-world banking operations — turning financial and workforce data into insights using Excel, Power BI, and SQL.
+    A collection of practical analytics projects built around workforce and operational data — turning data into actionable insights using Excel, Power BI, and SQL.
   </p>
 </div>
 
@@ -30,26 +30,27 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 
 </div>
 
-<!-- SQL Banking Analytics -->
+<!-- WPS Forecasting & Predictive Analysis -->
 <div align="center" style="margin-bottom:40px;">
 
-<a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank">
-  <img src="https://img.icons8.com/color/96/sql.png" width="60" alt="SQL Icon">
-</a>
-
-<h3>💾 SQL Banking Analytics</h3>
-<p style="text-align:justify; max-width:700px; font-size:0.95rem;">
-SQL-based data analysis on customer deposits, corporate accounts, and transaction activities. Includes queries for trend identification, data cleaning, and performance comparison.
-</p>
-<p><b>Tools:</b> SQL | Joins | Aggregations</p>
-
-<p>
-  <a href="https://github.com/humairatalhakhan/SQL-Banking-Analytics-Project" target="_blank" style="text-decoration:none; font-weight:bold;">
-    🔗 View Project on GitHub
+  <a href="https://github.com/humairatalib/WPS-Forecasting-Predictive-Analysis" target="_blank">
+    <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
   </a>
-</p>
+
+  <h3>💹 WPS Forecasting & Predictive Analysis</h3>
+  <p style="text-align:justify; max-width:700px; font-size:0.95rem;">
+    Predict payroll growth and client activity in coming months using historical WPS transaction data. Highlights top-performing sectors and regions to support data-driven decisions.
+  </p>
+  <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
+
+  <p>
+    <a href="https://github.com/humairatalhakhan/WPS-Forecasting-Predictive-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
+      🔗 View Project on GitHub
+    </a>
+  </p>
 
 </div>
+
 
 <!-- Branch Performance -->
 <div align="center" style="margin-bottom:40px;">
