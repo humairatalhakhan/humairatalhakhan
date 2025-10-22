@@ -54,18 +54,18 @@ SQL-based data analysis on customer deposits, corporate accounts, and transactio
 <!-- Branch Performance -->
 <div align="center" style="margin-bottom:40px;">
 
-<a href="https://github.com/humairatalhakhan/Bank-Branch-Performance-Analysis" target="_blank">
-  <img src="https://img.icons8.com/color/96/line-chart.png" width="60" alt="Analytics Icon">
+<a href="https://github.com/humairatalib/WPS-Market-Sector-Analysis" target="_blank">
+  <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
 </a>
 
-<h3>💹 Branch Performance Analysis</h3>
+<h3>💳 WPS Market Sector Analysis</h3>
 <p style="text-align:justify; max-width:700px; font-size:0.95rem;">
-Uses Excel and Power BI to compare revenue, deposit growth, and acquisition KPIs across multiple bank branches. Supports management reporting and performance-based decisions.
+Analyzes WPS product adoption across sectors and regions using SQL, Excel, and Power BI. Identifies high-performing industries, tracks client growth, and supports strategic business decisions.
 </p>
-<p><b>Tools:</b> Power BI | Excel | Statistics</p>
+<p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
 
 <p>
-  <a href="https://github.com/humairatalhakhan/Branch-Performance-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
+  <a href="https://github.com/humairatalhakhan/wps-market-sector-analysis/tree/main" style="text-decoration:none; font-weight:bold;">
     🔗 View Project on GitHub
   </a>
 </p>
