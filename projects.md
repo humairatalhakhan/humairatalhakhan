@@ -30,6 +30,8 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 
 </div>
 
+---
+
 <!-- WPS Forecasting & Predictive Analysis -->
 <div align="center" style="margin-bottom:40px;">
 
@@ -52,7 +54,9 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 </div>
 
 
-<!-- Branch Performance -->
+---
+
+<!-- WPS-Market-Sector-Analysis -->
 <div align="center" style="margin-bottom:40px;">
 
 <a href="https://github.com/humairatalib/WPS-Market-Sector-Analysis" target="_blank">
