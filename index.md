@@ -28,10 +28,9 @@ Outside of work, I enjoy learning new tools, following analytics trends, and con
 ---
 
 ## 🌱 Currently Exploring  
-- 🧩 Excel & Google Sheets — data cleaning, transformation, and analysis  
+- 🧩 Excel — data cleaning, transformation, and analysis  
 - 🧠 SQL — querying, manipulating, and analyzing structured data  
-- 📊 Power BI & Tableau — data visualization and storytelling  
-- 🐍 Python — using Pandas, NumPy, and Matplotlib for analysis  
+- 📊 Power BI — data visualization and storytelling   
 - 📈 Statistics — understanding fundamentals for data-driven decisions  
 - 💼 Real-world projects — turning raw data into actionable insights  
 
