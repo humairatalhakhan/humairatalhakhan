@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Humaira Talha! 👋  
+# Hi, I’m Humaira! 👋  
 
 **Aspiring Data Analyst | Business Coordinator | Exploring the Intersection of Business and Data**
 
@@ -43,7 +43,7 @@ Outside of work, I enjoy learning new tools, following analytics trends, and con
 
 ## 🔗 Connect with Me  
 
-<a href="https://humairatalhakhan.github.io/" target="_blank">
+<a href="https://https://datawithhumaira.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
 <a href="https://www.linkedin.com/in/humairatalha//" target="_blank">
