@@ -58,7 +58,7 @@ leveraging my banking expertise and technical skills to deliver **actionable ins
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://datawithhumaira.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/humairatalha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://humairatalhakhan.github.io-orange?style=flat&logo=google-chrome&logoColor=white)](https://datawithhumaira.github.io/projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://datawithhumaira.github.io-orange?style=flat&logo=google-chrome&logoColor=white)](https://datawithhumaira.github.io/projects)
 
 
 
