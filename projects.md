@@ -28,7 +28,7 @@ An end-to-end Business Intelligence project built in Power BI Desktop, using Pow
 <!-- WPS NTC Project -->
 <div align="center" style="margin-bottom:40px;">
 
-<a href="https://github.com/humairatalhakhan/New-to-Company-NTC-Acquisition" target="_blank">
+<a href="https://github.com/datawithhumaira/New-to-Company-NTC-Acquisition" target="_blank">
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="60" alt="Excel Icon">
 </a>
 
@@ -39,7 +39,7 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 <p><b>Tools:</b> Excel | Power Query | Pivot Charts</p>
 
 <p>
-  <a href="https://github.com/humairatalhakhan/New-to-Company-NTC-Acquisition" target="_blank" style="text-decoration:none; font-weight:bold;">
+  <a href="https://github.com/datawithhumaira/New-to-Company-NTC-Acquisition" target="_blank" style="text-decoration:none; font-weight:bold;">
     🔗 View Project on GitHub
   </a>
 </p>
@@ -51,7 +51,7 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 <!-- WPS Forecasting & Predictive Analysis -->
 <div align="center" style="margin-bottom:40px;">
 
-  <a href="https://github.com/humairatalib/WPS-Forecasting-Predictive-Analysis" target="_blank">
+  <a href="https://github.com/datawithhumaira/WPS-Forecasting-Predictive-Analysis" target="_blank">
     <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
   </a>
 
@@ -62,7 +62,7 @@ An Excel-based analytics project that tracks onboarding performance of corporate
   <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
 
   <p>
-    <a href="https://github.com/humairatalhakhan/WPS-Forecasting-Predictive-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
+    <a href="https://github.com/datawithhumaira/WPS-Forecasting-Predictive-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
       🔗 View Project on GitHub
     </a>
   </p>
@@ -75,7 +75,7 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 <!-- WPS-Market-Sector-Analysis -->
 <div align="center" style="margin-bottom:40px;">
 
-<a href="https://github.com/humairatalib/WPS-Market-Sector-Analysis" target="_blank">
+<a href="https://github.com/datawithhumaira/WPS-Market-Sector-Analysis" target="_blank">
   <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
 </a>
 
@@ -86,7 +86,7 @@ Analyzes WPS product adoption across sectors and regions using SQL, Excel, and P
 <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
 
 <p>
-  <a href="https://github.com/humairatalhakhan/wps-market-sector-analysis/tree/main" style="text-decoration:none; font-weight:bold;">
+  <a href="https://github.com/datawithhumaira/wps-market-sector-analysis/tree/main" style="text-decoration:none; font-weight:bold;">
     🔗 View Project on GitHub
   </a>
 </p>
