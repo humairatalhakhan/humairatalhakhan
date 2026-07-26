@@ -5,64 +5,346 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title | default: "Data With Humaira" }}</title>
   <style>
+    :root {
+      --bg: #F7FAFC;
+      --surface: #FFFFFF;
+      --surface-2: #EEF3F8;
+      --border: #E2E8F0;
+      --text: #0B132B;
+      --text-muted: #5A6472;
+      --accent: #0096C7;
+      --accent-light: #00B4D8;
+      --accent-dark: #0077B6;
+      --accent-bg: #E6F1FB;
+    }
+
+    * { box-sizing: border-box; }
+
     body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Oxygen,
         Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-      max-width: 700px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      line-height: 1.6;
-      color: #333;
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 0 1.5rem 4rem;
+      line-height: 1.7;
+      color: var(--text);
+      background: var(--bg);
     }
+
+    header.site-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.75rem 0 1rem;
+    }
+
+    .site-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text);
+      text-decoration: none;
+      letter-spacing: 0.2px;
+    }
+
+    .site-title span {
+      color: var(--accent-dark);
+    }
+
     nav {
-      margin-bottom: 2rem;
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 0.5rem;
+      margin-bottom: 2.5rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0;
     }
+
     nav ul {
       list-style: none;
       padding: 0;
       margin: 0;
       display: flex;
-      gap: 20px;
+      gap: 4px;
     }
+
     nav a {
       text-decoration: none;
-      color: #0366d6;
+      color: var(--text-muted);
       font-weight: 600;
+      font-size: 0.92rem;
+      padding: 0.6rem 0.9rem;
+      border-radius: 8px 8px 0 0;
+      display: inline-block;
+      transition: color 0.15s ease, background 0.15s ease;
     }
-    nav a:hover {
-      text-decoration: underline;
-    }
-    h1, h2, h3 {
-      color: #222;
-    }
-    a {
-      color: #0366d6;
+
+    nav a:hover,
+    nav a.active {
+      color: var(--accent-dark);
+      background: var(--accent-bg);
       text-decoration: none;
     }
-    a:hover {
-      text-decoration: underline;
+
+    h1, h2, h3 {
+      color: var(--text);
+      font-weight: 700;
+      line-height: 1.3;
     }
-    ul {
-      padding-left: 1.2rem;
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      font-size: 1.4rem;
+      margin-top: 2.5rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    h3 {
+      font-size: 1.1rem;
+      color: var(--accent-dark);
+    }
+
+    a {
+      color: var(--accent-dark);
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+      transition: border-color 0.15s ease;
+    }
+
+    a:hover {
+      border-bottom-color: var(--accent-dark);
+    }
+
+    ul, ol {
+      padding-left: 1.3rem;
+    }
+
+    li {
+      margin-bottom: 0.4rem;
+    }
+
+    code {
+      background: var(--surface-2);
+      color: var(--accent-dark);
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      font-size: 0.88em;
+      border: 1px solid var(--border);
+    }
+
+    pre {
+      background: var(--surface-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1rem 1.2rem;
+      overflow-x: auto;
+    }
+
+    pre code {
+      background: none;
+      border: none;
+      padding: 0;
+    }
+
+    blockquote {
+      margin: 1.5rem 0;
+      padding: 0.75rem 1.25rem;
+      border-left: 3px solid var(--accent);
+      background: var(--surface-2);
+      border-radius: 0 8px 8px 0;
+      color: var(--text-muted);
+    }
+
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5rem 0;
+      font-size: 0.92rem;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 0.6rem 0.8rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    th {
+      color: var(--accent-dark);
+      font-weight: 600;
+    }
+
+    hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 2.5rem 0;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin: 1.5rem 0;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+
+    .project-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem 1.4rem;
+      transition: border-color 0.15s ease, transform 0.15s ease;
+    }
+
+    .project-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-2px);
+    }
+
+    .project-card h3 {
+      margin-top: 0;
+      margin-bottom: 0.4rem;
+    }
+
+    .project-card p {
+      color: var(--text-muted);
+      font-size: 0.92rem;
+      margin-bottom: 0.6rem;
+    }
+
+    footer.site-footer {
+      margin-top: 4rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    footer.site-footer a {
+      color: var(--text-muted);
+      border-bottom: none;
+    }
+
+    footer.site-footer a:hover {
+      color: var(--accent-dark);
+    }
+
+    .hero {
+      margin: 1.75rem 0 2.5rem;
+      padding: 3rem 1.5rem 2.5rem;
+      text-align: center;
+      border-radius: 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+    }
+
+    .hero-avatar {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid var(--accent-dark);
+      margin-bottom: 1.1rem;
+    }
+
+    .hero-name {
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin: 0 0 0.35rem;
+      color: var(--text);
+    }
+
+    .hero-tagline {
+      color: var(--text-muted);
+      font-size: 0.98rem;
+      max-width: 480px;
+      margin: 0 auto 1.25rem;
+    }
+
+    .hero-socials {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+
+    .hero-socials a {
+      color: var(--text-muted);
+      font-size: 0.82rem;
+      font-weight: 600;
+      border: 1px solid var(--border);
+      padding: 0.4rem 0.9rem;
+      border-radius: 20px;
+    }
+
+    .hero-socials a:hover {
+      color: var(--accent-dark);
+      border-color: var(--accent);
+    }
+
+    .hero-socials a.primary {
+      background: var(--accent-dark);
+      color: #fff;
+      border-color: var(--accent-dark);
+    }
+
+    .hero-socials a.primary:hover {
+      color: #fff;
     }
   </style>
 </head>
 <body>
 
+<header class="site-header">
+  <a class="site-title" href="{{ '/' | relative_url }}">Data With <span>Humaira</span></a>
+</header>
+
 <nav>
   <ul>
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/about' | relative_url }}">About Me</a></li>
-    <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
-    <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+    <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>Home</a></li>
+    <li><a href="{{ '/about' | relative_url }}"{% if page.url contains '/about' %} class="active"{% endif %}>About Me</a></li>
+    <li><a href="{{ '/projects' | relative_url }}"{% if page.url contains '/projects' %} class="active"{% endif %}>Projects</a></li>
+    <li><a href="{{ '/contact' | relative_url }}"{% if page.url contains '/contact' %} class="active"{% endif %}>Contact</a></li>
   </ul>
 </nav>
+
+{% if page.url == "/" %}
+<section class="hero">
+  <img class="hero-avatar" src="{{ site.avatar | relative_url }}" alt="{{ site.author | default: 'Humaira' }}" />
+  <h1 class="hero-name">{{ site.author | default: "Humaira" }}</h1>
+  <p class="hero-tagline">{{ site.tagline | default: "Turning raw data into clear, actionable insight." }}</p>
+  <div class="hero-socials">
+    <a href="{{ site.linkedin_url | default: '#' }}">LinkedIn</a>
+    <a href="{{ site.github_url | default: '#' }}">GitHub</a>
+    <a class="primary" href="{{ '/contact' | relative_url }}">Contact me</a>
+  </div>
+</section>
+{% endif %}
 
 <main>
   {{ content }}
 </main>
+
+<footer class="site-footer">
+  <span>&copy; {{ site.time | date: '%Y' }} Data With Humaira</span>
+  <span>Built with data, coffee, and curiosity.</span>
+</footer>
 
 </body>
 </html>
