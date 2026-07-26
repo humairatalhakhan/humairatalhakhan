@@ -3,45 +3,25 @@ layout: default
 title: Home
 ---
 
-# Hi, I’m Humaira! 👋  
+## Welcome
 
-**Aspiring Data Analyst | Business Coordinator | Exploring the Intersection of Business and Data**
+I'm a business coordinator turning my curiosity about data into a career in analytics. This site tracks my learning journey, the tools I'm picking up along the way, and the projects I'm building to put them into practice.
 
----
+<div class="project-grid">
+  <div class="project-card">
+    <h3>📊 What I'm learning</h3>
+    <p>Currently working through Data Analytics Essentials, sharpening my skills in dashboards, reporting, and data storytelling.</p>
+  </div>
+  <div class="project-card">
+    <h3>🚀 What I'm building</h3>
+    <p>Hands-on projects using Power BI that turn raw data into clear, actionable insight — from KPI dashboards to trend analysis.</p>
+  </div>
+  <div class="project-card">
+    <h3>🤝 Let's connect</h3>
+    <p>Always happy to swap notes with other data enthusiasts. Reach out on the contact page.</p>
+  </div>
+</div>
 
-## 🚀 About Me  
-I currently work as a **Business Coordinator**, where I support team operations and help align day-to-day activities with broader business goals.  
-
-Recently, I’ve developed a strong interest in **data analytics** — how data can drive smarter decision-making and improve business performance.  
-
-I’m currently enrolled in **Data Analytics Essentials** and actively building my GitHub site to showcase my **learning progress** and **personal projects**.  
-
-My areas of interest include:
-- 📊 Data Visualization & KPI Dashboards  
-- 📈 Business Reporting & Process Insights  
-- 🧮 Transforming raw data into actionable insights  
-
-This shift toward analytics comes from my passion for understanding how data impacts decisions and strategies. I enjoy problem-solving, continuous learning, and exploring tools that connect **business goals** with **data-driven results**.  
-
-Outside of work, I enjoy learning new tools, following analytics trends, and connecting with other data enthusiasts.
-
----
-
-## 🌱 Currently Exploring  
-- 🧩 Excel — data cleaning, transformation, and analysis  
-- 🧠 SQL — querying, manipulating, and analyzing structured data  
-- 📊 Power BI — data visualization and storytelling   
-- 📈 Statistics — understanding fundamentals for data-driven decisions  
-- 💼 Real-world projects — turning raw data into actionable insights  
-
----
-
-## 🏆 Achievements  
-🌟 *To be added soon...*
-
----
-
-## 🔗 Connect with Me  
 
 <a href="https://datawithhumaira.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
