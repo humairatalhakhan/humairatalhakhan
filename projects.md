@@ -1,10 +1,26 @@
 # 💼 My Projects
 
-<div align="center">
-  <h3 style="font-size:1.4rem;">📊 WPS Analytics | Reporting | MIS Dashboards</h3>
-  <p style="max-width:750px;">
-    A collection of practical analytics projects built around workforce and operational data — turning data into actionable insights using Excel, Power BI, and SQL.
-  </p>
+
+---
+<!-- Power BI Project -->
+<div align="center" style="margin-bottom:40px;">
+
+<a href="https://github.com/datawithhumaira/sky-mart-powerbi-project" target="_blank">
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60" alt="Power BI Icon">
+</a>
+
+<h3>🏦 Sky Mart Power BI Project</h3>
+<p style="text-align:justify; max-width:700px; font-size:0.95rem;">
+An end-to-end Business Intelligence project built in Power BI Desktop, using Power Query for data cleaning and DAX for analysis. Simulates a real BI analyst engagement for a fictional retailer, SkyMart, consolidating messy Excel/CSV exports into one trusted, interactive dashboard.
+</p>
+<p><b>Tools:</b> Power BI | Power Query | DAX | Calculated Column </p>
+
+<p>
+  <a href="https://github.com/datawithhumaira/sky-mart-powerbi-project" target="_blank" style="text-decoration:none; font-weight:bold;">
+    🔗 View Project on GitHub
+  </a>
+</p>
+
 </div>
 
 ---
