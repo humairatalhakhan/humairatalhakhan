@@ -246,67 +246,6 @@
       color: var(--accent-dark);
     }
 
-    .hero {
-      margin: 1.75rem 0 2.5rem;
-      padding: 3rem 1.5rem 2.5rem;
-      text-align: center;
-      border-radius: 16px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-    }
-
-    .hero-avatar {
-      width: 110px;
-      height: 110px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 3px solid var(--accent-dark);
-      margin-bottom: 1.1rem;
-    }
-
-    .hero-name {
-      font-size: 1.6rem;
-      font-weight: 700;
-      margin: 0 0 0.35rem;
-      color: var(--text);
-    }
-
-    .hero-tagline {
-      color: var(--text-muted);
-      font-size: 0.98rem;
-      max-width: 480px;
-      margin: 0 auto 1.25rem;
-    }
-
-    .hero-socials {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-    }
-
-    .hero-socials a {
-      color: var(--text-muted);
-      font-size: 0.82rem;
-      font-weight: 600;
-      border: 1px solid var(--border);
-      padding: 0.4rem 0.9rem;
-      border-radius: 20px;
-    }
-
-    .hero-socials a:hover {
-      color: var(--accent-dark);
-      border-color: var(--accent);
-    }
-
-    .hero-socials a.primary {
-      background: var(--accent-dark);
-      color: #fff;
-      border-color: var(--accent-dark);
-    }
-
-    .hero-socials a.primary:hover {
-      color: #fff;
-    }
   </style>
 </head>
 <body>
@@ -323,19 +262,6 @@
     <li><a href="{{ '/contact' | relative_url }}"{% if page.url contains '/contact' %} class="active"{% endif %}>Contact</a></li>
   </ul>
 </nav>
-
-{% if page.url == "/" %}
-<section class="hero">
-  <img class="hero-avatar" src="{{ site.avatar | relative_url }}" alt="{{ site.author | default: 'Humaira' }}" />
-  <h1 class="hero-name">{{ site.author | default: "Humaira" }}</h1>
-  <p class="hero-tagline">{{ site.tagline | default: "Turning raw data into clear, actionable insight." }}</p>
-  <div class="hero-socials">
-    <a href="{{ site.linkedin_url | default: '#' }}">LinkedIn</a>
-    <a href="{{ site.github_url | default: '#' }}">GitHub</a>
-    <a class="primary" href="{{ '/contact' | relative_url }}">Contact me</a>
-  </div>
-</section>
-{% endif %}
 
 <main>
   {{ content }}
