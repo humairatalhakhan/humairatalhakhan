@@ -10,7 +10,7 @@ I'm a business coordinator turning my curiosity about data into a career in anal
 <div class="project-grid">
   <div class="project-card">
     <h3>📊 What I'm learning</h3>
-    <p>Currently working through Data Analytics Essentials, sharpening my skills in dashboards, reporting, and data storytelling.</p>
+    <p>Currently working through Data Analytics Essentials, sharing my skills in dashboards, reporting, and data storytelling.</p>
   </div>
   <div class="project-card">
     <h3>🚀 What I'm building</h3>
